@@ -1,0 +1,117 @@
+{
+  "allproducts": [
+    {
+      "id": 1,
+      "productName": "TV",
+      "productDescription": "Acer 18.5 inch HD Backlit LED LCD Monitor - 200 Nits - VGA Port - EB192Q (Black)",
+      "productPrice": 4339.0,
+      "categoryName": "Electronics",
+      "inStock": true,
+      "quantity": 5,
+      "productImage": "https://images-na.ssl-images-amazon.com/images/I/91JxQOfRasL._SL1500_.jpg"
+    },
+
+    {
+      "id": 2,
+      "productName": "Camera",
+      "productDescription": "Canon PowerShot SX540HS 20.3MP Digital Camera with 50x Optical Zoom (Black) + Memory Card + Camera Case",
+      "productPrice": 18990,
+      "categoryName": "Electronics",
+      "inStock": true,
+      "quantity": 5,
+      "productImage": "https://images-na.ssl-images-amazon.com/images/I/71Xp-K4MMBL._SL1000_.jpg"
+    },
+    {
+      "id": 3,
+      "productName": "Laptop",
+      "productDescription": "HP 245 7GZ75PA#ACJ 14-inch Laptop (A6-9225/4GB/1TB/DOS/Integrated Graphics), Black",
+      "productPrice": 22800,
+      "categoryName": "Electronics",
+      "inStock": true,
+      "quantity": 5,
+      "productImage": "https://images-na.ssl-images-amazon.com/images/I/61Qj74HHVqL._SL1500_.jpg"
+    },
+
+    {
+      "id": 4,
+      "productName": "Women's Top",
+      "productDescription": "ILLI LONDON Women's Maxi Dress",
+      "productPrice": 2800,
+      "categoryName": "Dress",
+      "inStock": true,
+      "quantity": 8,
+      "productImage": "https://images-na.ssl-images-amazon.com/images/I/71xJeqBSXFL._UL1500_.jpg"
+    },
+    {
+      "id": 5,
+      "productName": "Saree",
+      "productDescription": "Anni Designer Women's Orange Color Satin Silk Printed Saree With Blouse Piece(PRINTED ROSHNI ORANGE_Free Size)",
+      "productPrice": 22800,
+      "categoryName": "Dress",
+      "inStock": true,
+      "quantity": 5,
+      "productImage": "https://images-na.ssl-images-amazon.com/images/I/81zUZEJOrAL._UL1500_.jpg"
+    },
+    {
+      "id": 6,
+      "productName": "Men's Shirt",
+      "productDescription": "Allen Solly Men's Plain Slim Fit Casual Shirt",
+      "productPrice": 800,
+      "categoryName": "Dress",
+      "inStock": true,
+      "quantity": 5,
+      "productImage": "https://images-na.ssl-images-amazon.com/images/I/81%2BCFCcAUCL._UL1500_.jpg"
+    },
+
+    {
+      "id": 7,
+      "productName": "Toy",
+      "productDescription": "NKK PNP Newly Kids Sofa Cum Bed (Pink)",
+      "productPrice": 2800,
+      "categoryName": "Kids",
+      "inStock": true,
+      "quantity": 8,
+      "productImage": "https://images-na.ssl-images-amazon.com/images/I/51sud34Mp1L.jpg"
+    },
+    {
+      "id": 8,
+      "productName": "Watter Bottle",
+      "productDescription": "Rawbest Star Kid Surgical Inner Steel Kids Water Bottle, 550 ml,(Blue)",
+      "productPrice": 2800,
+      "categoryName": "Kids",
+      "inStock": true,
+      "quantity": 8,
+      "productImage": "https://images-na.ssl-images-amazon.com/images/I/614fFkNfG3L._SL1500_.jpg"
+    },
+    {
+      "id": 9,
+      "productName": "Dress",
+      "productDescription": "Hopscotch Girls' Polyester Beautiful Leaf Print Dress with Hat in Yellow Colour",
+      "productPrice": 289,
+      "categoryName": "Kids",
+      "inStock": true,
+      "quantity": 8,
+      "productImage": "https://images-na.ssl-images-amazon.com/images/I/61AGDLO09AL._UL1000_.jpg"
+    }
+  ],
+
+  "allusers": [
+    {
+      "id": 1,
+      "firstName": "Swathi",
+      "lastName": "ET",
+      "userName": "swathiet",
+      "email": "swathi@gmail.com",
+      "password": "swathi"
+    },
+
+    {
+      "id": 1,
+      "firstName": "Reena",
+      "lastName": "ET",
+      "userName": "reenaet",
+      "email": "reena@gmail.com",
+      "password": "reena"
+    }
+  ]
+}
